@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.sticky-table-header{
+  position: sticky;top: 0
+}
+
+.form-label{
+  margin-bottom: 0.2rem!important;
+}

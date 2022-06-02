@@ -10,6 +10,7 @@ function App() {
       <h1 className='py-4'>Variants</h1>
       <VariantTable />
     </div>
+    
   );
 }
 
